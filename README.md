@@ -1,3 +1,2 @@
 # scraping
-a scrap from political fake or not news
-just a scrap over a political fake or not comments
+just a scrap over a political fake or not comments in the page I wrote on the .py

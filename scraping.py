@@ -4,7 +4,6 @@ Created on Fri May  7 16:15:21 2021
 
 @author: egzlz
 """
-"https://www.youtube.com/watch?v=Nz1zPkiHcbg&t=24s fuente"
 
 
 from bs4 import BeautifulSoup
